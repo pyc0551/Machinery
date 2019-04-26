@@ -3,4 +3,4 @@ What you need? A computer with SW2016, Linux with whole ROS, and you know how to
 
 The mechanical group drawings of this project will be put here. Please update the contents of master and other branch in time.
 
-Contributor: Yen-Yen Lee
+Contributor: Peiyan Chen
